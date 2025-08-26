@@ -22,17 +22,21 @@ De acuerdo al Real Decreto 686/2010, de 20 de mayo de 2010, y actualizado en el 
 ## Unidades de trabajo
 
 
-<img src="https://github.com/user-attachments/assets/91788d63-bf9f-450a-8b6c-a50c4947217a" height="500px"/>
-
-- UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web
+- [UT01: Introducción al DWES. Arquitecturas y tecnologías de programación web]
 
 - [UT02: Programación web con Java (JakartaEE)](https://github.com/profeMelola/DWES-02-2025-26)
 
+- [UT03: Programación web con Spring Framework & Spring Boot]
+  
 - [UT03: Sesiones y autenticación]
   
 - [UT04: Persistencia de datos en aplicaciones web]
+  
+- [UT05: Servicios Web]
 
-- [UT05: Programación web con Spring Framework & Spring Boot]
+- [UT06: Desarrollo web avanzado. Aplicaciones web híbridas]
+
+
   
 
 ## Licencia
