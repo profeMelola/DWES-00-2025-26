@@ -1,5 +1,6 @@
 # Entregas de soluciones de alumnos
 
+<img width="130" height="148" alt="image" src="https://github.com/user-attachments/assets/43b3d58a-a424-4ffa-a583-23f1a0c731c3" />
 
 Sube la solución a los diferentes retos. 
 
